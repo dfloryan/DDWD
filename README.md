@@ -18,9 +18,9 @@ This distribution also contains the data needed to recreate the results in
 the cited paper, and three MATLAB scripts that recreate the main results 
 and demonstrate how to calculate data-driven wavelets with the above 
 functions:
-* exampleGaussianWhiteNoise.m: 
-* exampleKS.m: 
-* exampleHIT.m: 
+* exampleGaussianWhiteNoise.m: recreates main results for Gaussian white noise data
+* exampleKS.m: recreates main results for Kuramoto-Sivashinsky data
+* exampleHIT.m: recreates main results for turbulence data
 
 As is, exampleHIT.m will take a long time to run. 
 
