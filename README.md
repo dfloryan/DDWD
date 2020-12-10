@@ -22,7 +22,9 @@ functions:
 * exampleKS.m: recreates main results for Kuramoto-Sivashinsky data
 * exampleHIT.m: recreates main results for turbulence data
 
-As is, exampleHIT.m will take a long time to run. 
+As is, exampleHIT.m will not run since the associated data is too large to 
+host on Github. However, the cited paper explains where to obtain the 
+required data. 
 
 If you make use of this distribution, please cite "Discovering multiscale 
 and self-similar structure with data-driven wavelets," by D. Floryan and 
