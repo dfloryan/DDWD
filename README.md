@@ -28,4 +28,4 @@ required data.
 
 If you make use of this distribution, please cite "Discovering multiscale 
 and self-similar structure with data-driven wavelets," by D. Floryan and 
-M. D. Graham, PNAS, 2020. 
+M. D. Graham, PNAS, 118(1), 2021. 
