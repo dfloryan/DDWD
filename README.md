@@ -5,7 +5,7 @@ README for Data-Driven Wavelet Decomposition (DDWD)
 
 This distribution contains the code needed to create data-driven wavelets, 
 as described in "Discovering multiscale and self-similar structure with 
-data-driven wavelets," by D. Floryan and M. D. Graham, PNAS, 2020. 
+data-driven wavelets," by D. Floryan and M. D. Graham, PNAS, 2021. 
 
 This distribution contains five primary MATLAB functions: 
 * waveletOpt.m: calculates data-driven wavelets
